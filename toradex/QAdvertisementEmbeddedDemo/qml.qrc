@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>AdSelectScreen.qml</file>
+        <file>FullScreenAd.qml</file>
+        <file>BaseScreen.qml</file>
+        <file>FluidScreenAd.qml</file>
+        <file>AnchoredScreenAd.qml</file>
+        <file>InlineScreenAd.qml</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>Qt_logo.png</file>
+        <file>arrow.png</file>
+        <file>builtwithqt.png</file>
+        <file>builtwithqtrect.png</file>
+        <file>close.png</file>
+    </qresource>
+</RCC>
