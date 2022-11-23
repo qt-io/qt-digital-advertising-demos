@@ -17,7 +17,7 @@ Window {
     y:100
 
     EmbeddedConfig{
-        qdaApiKey: "BDC71A3A-73CA-BAEA-EC92-9D36BC64ADD8"
+        qdaApiKey: "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX"
         venueId: "Qt_Demo_Evaluation_Venue1"
     }
 
